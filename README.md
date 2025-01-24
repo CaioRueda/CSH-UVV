@@ -1,2 +1,2 @@
 # CSH-UVV
-Repositório de Caio Oliveira Rueda
+Repositório de HTML/CSS/JS básico de Caio Oliveira Rueda
